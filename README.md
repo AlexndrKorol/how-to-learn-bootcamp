@@ -2,12 +2,14 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я веб дизайнер, который решил изучать фронтенд</h3>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/>
 </div>
 
 
 
 # Научиться учиться. Учебный проект Яндекс.Практикум #
+
+Первый проект в рамках учебного курса Яндекс.Практикум
 
 Цель проекта отработка первичных навыков по верстке несложных макетов.
 Сама страница несет в себе полезную информацию о вопросах самообучения. Ссылки кликабельны.
